@@ -1,10 +1,10 @@
 # Twitter-Sentiment-Analysis
 
-## About the Project
+### About the Project
 
 To detect severity from tweets.
 
-Description of experiment
+#### Description of experiment
 This is the sentiment140 dataset. It contains 1,600,000 tweets extracted using the twitter api . The tweets have been annotated (0 = negative, 2 = neutral, 4 = positive) and they can be used to detect sentiment.
 Approach For Solving The Problem 
 Read twitter dataset using pandas library
@@ -22,12 +22,12 @@ Extracted feature using count vectorizer
  
 Applied RandomForestClassifier for finding the accuracy of the sentiments
  
-Result
+#### Result
  
  Accuracy score is 0.7626306135618759 
  
  F1 score is 0.6599289133716688
 
-Link
+#### Link
 
 https://www.kaggle.com/kazanova/sentiment140
