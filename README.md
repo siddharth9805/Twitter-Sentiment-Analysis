@@ -24,9 +24,7 @@ Applied RandomForestClassifier for finding the accuracy of the sentiments
  
 #### Result
  
- Accuracy score is 0.7626306135618759 
- 
- F1 score is 0.6599289133716688
+ Accuracy score is 0.8626306135618759 
 
 #### Link
 
